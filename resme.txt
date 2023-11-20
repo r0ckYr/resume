@@ -1,0 +1,83 @@
+# Rakshit Rautela
+Computer Science student, skilled in Linux, Java, Python, Golang, Javascript, and SQL. Interested in Artificial Intelligence and Web Development
+email : rakshitrautela17@gmail.com
+Website : r0ckyr.github.io/
+Linkedin : linkedin.com/in/rakshitrautela7
+twitter : @r0ckYrp
+github : github.com/r0ckYr
+
+
+# EDUCATION
+B.Tech (CSE)
+Graphic Era Hill University
+06/2021 - Present,	Dehradun, India
+
+
+
+# PROJECTS
+## Collaborative Document Management Platform
+	Document management system with real-time collaboration, version control, and easy document sharing. - Java, Azure, Spring Boot, WebSocket, PostgreSQL
+
+
+## Online Code Editor
+	An online code editor, enabling users to execute code in various languages (C, Java, Python, Golang). Deployed as a Docker container on Amazon EC2.- ReactJS, NodeJS, MongoDB, Docker, AWS
+
+
+## Question Answering Chrome Extension Using Google BERT
+	QnA Chrome Extension to extract webpage text and provide quick answers to user questions, using Natural Language Processing, enhancing browsing experience. - NLP, Deep Learning, Python, BERT
+
+
+## Student Management Desktop Application
+	Developed a streamlined desktop application utilizing SQL Database to store, manage, process, and compile student data for an institute. - MySQL, Java
+
+
+## Arduino Remote Controlled Smart Car
+A Bluetooth controlled car and cleaner robot which uses IR and Ultrasonic sensors to avoid obstacles. - Objectiv C, Arduino Board
+
+
+## MediDetect - Automated Multi-Medical Image Classification System
+	Medical image classification web app categorizes uploaded images (e.g., brain tumors, lung cancer, bone fractures) and validates positivity/negativity. - Python, Django, Docker, AWS
+
+
+## SKILLS
+Linux
+Java
+Python
+Golang
+SQL
+Bash
+Git
+Microsoft Azure
+Amazon AWS
+Docker
+C/C++
+HTML/CSS
+ReactJS
+NodeJs
+MongoDB
+Javascript
+Flask
+Django
+Pytorch
+Keras
+NLP
+CI/CD
+Spring Boot
+WebSocket
+Nginx
+Computer Vision
+Web App Security
+
+
+# ACHIEVEMENTS
+## Bug Bounty (Web Application Security)
+	Have participated in various bug bounty programs to find vulnerabilities aﬀecting companies like, Paypal, Coinbase - Web Application Pentesting - Hackerone Profile
+
+
+# PUBLICATIONS
+## Deep Learning-Based IoT Malware Detection Using CNN and Transfer Learning: A Comparative Study
+	Researched IoT malware analysis with deep learning and VGG16 classification. Explored eﬀective methods for IoT device security. Contributed to cybersecurity and IoT security.
+
+## Decoding the Textual Symphony: A Comparative Study of RNN, LSTM, and GRU Architectures for Sequential Text
+	This research assesses RNN, LSTM, and GRU architectures, enhancing understanding of their performance, eﬃciency, and applications in natural language processing. The findings oﬀer valuable insights and guidance for text generation optimization
+
